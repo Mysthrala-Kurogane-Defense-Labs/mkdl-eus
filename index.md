@@ -1,46 +1,99 @@
-# Mysthrala Kurogane Defense Labs (MKDL)
+# MKDL — OT Check
 
-Información pública de MKDL · Actualización: 25 de octubre de 2026 · Idioma: español.
+https://mkdl.eus/
 
-MKDL presenta OT Check: revisión de un proceso industrial delimitado y su centro de decisión para entregar prioridades justificadas, responsables propuestos y comprobaciones con las que encargar mejoras. Base operativa en Euskadi. Puede dirigirse a empresas industriales pequeñas, medianas y grandes o unidades de grupos.
+Edukira joan
 
-## Entrega y método
+Castellano
 
-Mapa del proceso, requisitos y respuestas respaldadas, comprobaciones pendientes, plan de actuaciones, informe PDF, matriz editable y devolución a gerencia. Entrevistas, documentación y observación acompañada, con profundidad y evidencias pactadas antes de empezar.
+OT Check
 
-Formato propuesto sujeto a presupuesto: preparación con el cliente de hasta una hora, visita acompañada de hasta siete horas, devolución de hasta una hora y una ronda de aclaraciones incluida. Se proponen diez días laborables para aceptación expresa o reparos sobre la entrega, sin aceptación automática por silencio. Los defectos respecto al alcance se corrigen sin otro cobro. No hay precio firme publicado.
+Entregaren adibidea
 
-## Límites
+Kontaktua
 
-Consultoría, documentación y formación expresamente acordadas. Sin implementación, operación, respuesta a incidentes, soporte permanente o integración por defecto. Sin escaneos activos, cambios de configuración, pentest o restauraciones. No certifica cumplimiento ni garantiza continuidad, recuperación o aceptación de un comprador. Kurogane Hub no se distribuye ni se ofrece desde esta web.
+Zibersegurtasun-plan bat zure lantegiko prozesu baterako.
 
-La actividad está en preparación. El inicio de la prestación requiere formalizar la actividad, el contrato y las condiciones profesionales acordadas. El trabajo lo realiza Kalista, especialista en ciberseguridad por Uni Eibar-Ermua. Su equipo, MKDLNULL, obtuvo el segundo puesto en CyberLehia 2026.
+OT Check zerbitzuak industria-prozesu bat aztertzen du, zer hobetu eta hornitzaileei zer eskatu erabakitzen laguntzeko. Lehentasunen arabera antolatutako jarduketak, arduradun-proposamenak eta hobekuntza bakoitza amaitutzat emateko egiaztapenak jasoko dituzu.
 
-## Simulaciones y evidencias
+Erosle batek ebidentziak eskatzen dituenean, berreskuratze bat prestatu behar duzunean edo mantentze-enpresa baten sarbidea koordinatu behar denean, arlo bakoitzaren ezagutza bildu eta eskaera zehatz bihurtu behar da.
 
-Las tres situaciones ilustran accesos de proveedores, copias con recuperación pendiente de comprobar y petición de seguridad de un comprador. Son simulaciones, no clientes, pilotos, casos de éxito ni ahorros acreditados.
+OT Check zerbitzuari buruz galdetu
 
-- [Muestra HTML y fuentes sintéticas](https://mkdl.eus/muestra-ot-check.html)
-- [Muestra PDF](https://mkdl.eus/assets/MKDL_Ejemplo_Informe_Gerencia.pdf)
-- [Evidencias legibles del caso ficticio](https://mkdl.eus/muestra-ot-check.html#evidencias)
+Entregaren adibide bat ikusi
 
-## Información y contacto
+Fikziozko entregaren adibidea (gaztelaniaz).
 
-- [OT Check](https://mkdl.eus/#servicio)
-- [Contacto](mailto:mysthrala@mkdl.jp)
-- [Aviso legal](https://mkdl.eus/aviso-legal.html)
-- [Privacidad](https://mkdl.eus/privacidad.html)
-- [Cookies](https://mkdl.eus/cookies.html)
-- [Accesibilidad](https://mkdl.eus/accesibilidad.html)
-- [Seguridad](https://mkdl.eus/security-policy.html)
-- [Mapa del sitio](https://mkdl.eus/sitemap.xml)
-- [Índice para agentes](https://mkdl.eus/llms.txt)
-- [Preferencias de rastreo](https://mkdl.eus/robots.txt)
+Txostena eta ebidentziak irakurri (gaztelaniaz)
 
-## Recursos públicos
+.
 
-- [Guías para empresas y equipos técnicos](https://github.com/Mysthrala-Kurogane-Defense-Labs/kurogane-docs)
-- [Laboratorios sintéticos](https://github.com/Mysthrala-Kurogane-Defense-Labs/kurogane-labs)
-- [Contrato y validación de eventos del SDK](https://github.com/Mysthrala-Kurogane-Defense-Labs/kurogane-satellite-sdk): sin transporte HTTP.
+Zer aztertzen dugu zurekin?
 
-Estos recursos no acreditan una instalación de Hub o resultados comerciales. No se ofrece acceso a datos privados, herramientas para agentes, cuentas o pagos automáticos.
+Lantegi bateko prozesu bat eta hartu behar duzun erabaki bat adosten ditugu. Elkarrizketak, dokumentuak eta behaketak aztertzen ditugu, zuzendaritzako, informatikako, mantentze-lanetako eta hornitzaileetako pertsona egokiekin. Ondorio bakoitzean bereizten dira egiaztatutakoa eta argitzeke dagoena.
+
+Entregak produkzioaren, kalitatearen, mantentze-lanen, informatikaren eta hornitzaileen informazioa lotzen du. Aurrekontu konparagarriak eskatzeko eta hobekuntza bakoitza onartzeko zer ebidentzia beharko den adosteko balio du. Azterketak ez zaitu ekipamendurik erostera edo gauzatzea MKDLrekin kontratatzera behartzen.
+
+Txosten bat, matrize editagarriak eta emaitzak azaltzeko bilera bat jasoko dituzu. Sakontasuna, parte-hartzaileak, bisita, egutegia eta prezioa lana kontratatu aurretik zehazten dira. Entregak argibide-txanda bat barne hartzen du. Adostutako irismenarekiko akatsak kostu gehigarririk gabe zuzentzen dira.
+
+OT Check zerbitzuak ez ditu barne hartzen aldaketak, inplementazioa, eskaneatzeak, sartze-probak edo leheneratzeak. Ezta operazioa, gorabeheren kudeaketa, etengabeko laguntza edo ziurtapena ere. Zuk baimendutako taldeak edo hornitzaileak gauzatzen ditu hobekuntzak. Prestakuntza osagarriak beste kontratazio bat behar du.
+
+OT Check tamaina desberdinetako industria-enpresentzat eta taldeetako unitateentzat pentsatuta dago, profesional bakarrak bere gain hartzeko moduko irismenarekin. Euskaditik lan egiten dut, eta joan-etorriak aurrekontuan zehazten dira. Plangintzarako erreferentzia gisa, hamar lanegun proposatzen dira bisita egin eta iturri guztiak jaso ondoren; epea eta prezioa lan bakoitzerako adosten dira.
+
+Nor dago MKDLren atzean?
+
+Kalista naiz, Uni Eibar-Ermuan zibersegurtasunean espezializatua. Nik neuk egiten dut azterketa eta azaltzen dut entrega, prozesua ezagutzen dutenekin koordinatuta.
+
+Nire taldeak, MKDLNULLek, bigarren postua lortu zuen CyberLehia 2026 lehiaketan, Lanbide Heziketako taldeen arteko zibersegurtasun-lehiaketan.
+
+Taldearen sailkapena kontsultatu
+
+.
+
+Jasoko zenukeenaren adibide bat
+
+Fikziozko zelula honetan programen kopiak daude, baina ekipamendu bakoitzak prozesua berreraikitzeko zer behar duen zehaztu gabe dago. Bi fitxategik etiketa bera dute, baina eduki desberdina. Txostenak iturri horiek lotzen ditu, aktibo bakoitzeko katalogo bat proposatzen du eta mantentze-enpresarentzako lanak zehazten ditu. Ez dagokio benetako bezero bati. Adibidearen dokumentuak gaztelaniaz daude.
+
+Txostena eta ebidentziak irakurri (gaztelaniaz)
+
+PDF txostena deskargatu (gaztelaniaz)
+
+Hainbat hornitzaile sartzen dira ekipamenduetara
+
+Simulazio honetan, mantentze-lanetako eta informatikako arloek sarbideei buruzko informazioaren zati bana dute, baina ez dute esku-hartze bakoitza nork baimentzen duen jasotzen duen zerrenda partekaturik.
+
+OT Check zerbitzuak prozesuaren dokumentazioa eta elkarrizketak alderatzen ditu. Sarbideen zerrenda, argitu beharreko baieztapenak eta arduradun-proposamenak ematen ditu, zer berrikuspen eskatu erabakitzeko. Ez du sarbiderik kentzen edo aldatzen.
+
+Kopiak daude, baina zer berreskura daitekeen egiaztatu gabe dago
+
+Simulazio honetan programen kopiak daude eta aurretik proba bat egin zela adierazten da, baina ez da haren erregistrorik aurkitzen.
+
+OT Check zerbitzuak ezagutzen den estaldura, falta dena eta hori nork argitu dezakeen dokumentatzen du. Beste proba bat prestatzea komeni den eta zer baldintzatan erabakitzeko balio du. Azterketak ez du proba hori egiten, ezta berreskuratze-denborarik egiaztatzen ere.
+
+Erosle batek segurtasunari buruzko informazioa eskatzen du
+
+Simulazio honetan, prozesu bati buruzko erantzunak hainbat arloren esku daude eta batzuek ez dute dokumentu-euskarririk.
+
+OT Check zerbitzuak irismenean sartutako galderak eskuragarri dauden ebidentziekin eta erantzuteke dauden galderekin lotzen ditu. Zer erantzun daitekeen eta aurretik zer baliozkotu behar den erabakitzen laguntzen du. Ez du homologazioa bermatzen, eta ez du berez enpresa-galdetegi oso bat barne hartzen.
+
+Azaldu zer erabaki behar duzun
+
+Kontsultaren arrazoia eta aztertu nahi duzun prozesua adieraztea nahikoa da. Ez bidali kredentzialik, konfiguraziorik edo informazio sentikorrik. Hogei minutuko elkarrizketa batek OT Check egokia den baloratzeko balio du.
+
+MKDLri idatzi
+
+mysthrala@mkdl.jp
+
+Aholkularitza, dokumentazioa eta prestakuntza Euskaditik.
+
+Lege-oharra (gaztelaniaz)
+
+Pribatutasuna (gaztelaniaz)
+
+Cookieak (gaztelaniaz)
+
+Irisgarritasuna (gaztelaniaz)
+
+Segurtasuna (gaztelaniaz)
+
+© 2026 Mysthrala Kurogane Defense Labs
