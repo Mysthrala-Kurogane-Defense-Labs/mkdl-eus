@@ -8,17 +8,17 @@ Proyecto profesional en preparación, con base operativa en Euskadi. Una profesi
 
 ## Sitio
 
-- [Presentación en Markdown](https://mkdl.jp/index.md)
-- [Inicio](https://mkdl.jp/)
-- [Servicio, entregas y método](https://mkdl.jp/#servicio)
-- [Tres situaciones simuladas](https://mkdl.jp/#ejemplo)
-- [Muestra sintética y fuentes](https://mkdl.jp/muestra-ot-check.html)
-- [Aviso legal](https://mkdl.jp/aviso-legal.html)
-- [Privacidad](https://mkdl.jp/privacidad.html)
-- [Cookies](https://mkdl.jp/cookies.html)
-- [Accesibilidad](https://mkdl.jp/accesibilidad.html)
-- [Seguridad](https://mkdl.jp/security-policy.html)
-- [Mapa del sitio](https://mkdl.jp/sitemap.xml)
+- [Presentación en Markdown](https://mkdl.eus/index.md)
+- [Inicio](https://mkdl.eus/)
+- [Servicio, entregas y método](https://mkdl.eus/#servicio)
+- [Tres situaciones simuladas](https://mkdl.eus/#ejemplo)
+- [Muestra sintética y fuentes](https://mkdl.eus/muestra-ot-check.html)
+- [Aviso legal](https://mkdl.eus/aviso-legal.html)
+- [Privacidad](https://mkdl.eus/privacidad.html)
+- [Cookies](https://mkdl.eus/cookies.html)
+- [Accesibilidad](https://mkdl.eus/accesibilidad.html)
+- [Seguridad](https://mkdl.eus/security-policy.html)
+- [Mapa del sitio](https://mkdl.eus/sitemap.xml)
 - Contacto: mysthrala@mkdl.jp
 
 Los ejemplos son sintéticos y no acreditan clientes, pilotos ni resultados. Las credenciales individuales se distinguen de las fuentes públicas sobre un programa formativo o el resultado de un equipo.

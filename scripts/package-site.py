@@ -44,7 +44,7 @@ class Page(HTMLParser):
 
 
 def validate(output):
-    require((output / "CNAME").read_text().strip() == "mkdl.jp", "CNAME must contain mkdl.jp")
+    require((output / "CNAME").read_text().strip() == "mkdl.eus", "CNAME must contain mkdl.eus")
     require(
         (output / "security.txt").read_bytes() == (output / ".well-known/security.txt").read_bytes(),
         "The two security.txt files must be identical",

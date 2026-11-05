@@ -1,4 +1,4 @@
-# Preferences for the public information at https://mkdl.jp only.
+# Preferences for the public information at https://mkdl.eus only.
 # search: indexing and search results.
 # ai-input: using public content to answer questions and ground responses.
 # ai-train: training or fine-tuning models using public content.
@@ -6,4 +6,4 @@
 User-agent: *
 Content-Signal: search=yes, ai-input=yes, ai-train=yes
 Allow: /
-Sitemap: https://mkdl.jp/sitemap.xml
+Sitemap: https://mkdl.eus/sitemap.xml

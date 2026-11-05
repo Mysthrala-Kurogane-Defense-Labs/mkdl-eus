@@ -20,22 +20,22 @@ La actividad está en preparación. El inicio de la prestación requiere formali
 
 Las tres situaciones ilustran accesos de proveedores, copias con recuperación pendiente de comprobar y petición de seguridad de un comprador. Son simulaciones, no clientes, pilotos, casos de éxito ni ahorros acreditados.
 
-- [Muestra HTML y fuentes sintéticas](https://mkdl.jp/muestra-ot-check.html)
-- [Muestra PDF](https://mkdl.jp/assets/MKDL_Ejemplo_Informe_Gerencia.pdf)
-- [Evidencias legibles del caso ficticio](https://mkdl.jp/muestra-ot-check.html#evidencias)
+- [Muestra HTML y fuentes sintéticas](https://mkdl.eus/muestra-ot-check.html)
+- [Muestra PDF](https://mkdl.eus/assets/MKDL_Ejemplo_Informe_Gerencia.pdf)
+- [Evidencias legibles del caso ficticio](https://mkdl.eus/muestra-ot-check.html#evidencias)
 
 ## Información y contacto
 
-- [OT Check](https://mkdl.jp/#servicio)
+- [OT Check](https://mkdl.eus/#servicio)
 - [Contacto](mailto:mysthrala@mkdl.jp)
-- [Aviso legal](https://mkdl.jp/aviso-legal.html)
-- [Privacidad](https://mkdl.jp/privacidad.html)
-- [Cookies](https://mkdl.jp/cookies.html)
-- [Accesibilidad](https://mkdl.jp/accesibilidad.html)
-- [Seguridad](https://mkdl.jp/security-policy.html)
-- [Mapa del sitio](https://mkdl.jp/sitemap.xml)
-- [Índice para agentes](https://mkdl.jp/llms.txt)
-- [Preferencias de rastreo](https://mkdl.jp/robots.txt)
+- [Aviso legal](https://mkdl.eus/aviso-legal.html)
+- [Privacidad](https://mkdl.eus/privacidad.html)
+- [Cookies](https://mkdl.eus/cookies.html)
+- [Accesibilidad](https://mkdl.eus/accesibilidad.html)
+- [Seguridad](https://mkdl.eus/security-policy.html)
+- [Mapa del sitio](https://mkdl.eus/sitemap.xml)
+- [Índice para agentes](https://mkdl.eus/llms.txt)
+- [Preferencias de rastreo](https://mkdl.eus/robots.txt)
 
 ## Recursos públicos
 
