@@ -32,4 +32,4 @@ Los ejemplos son sintéticos y no acreditan clientes, pilotos ni resultados. Las
 
 ## Uso del contenido público
 
-La titular permite indexación, uso para respuestas y entrenamiento del contenido público de mkdl.jp, según robots.txt. Esta preferencia no concede acceso a otros hosts, al producto, a cuentas o a datos de clientes. Las condiciones técnicas de acceso de Cloudflare se gestionan por separado.
+La titular permite indexación, uso para respuestas y entrenamiento del contenido público de mkdl.eus, según robots.txt. Esta preferencia no concede acceso a otros hosts, al producto, a cuentas o a datos de clientes. Las condiciones técnicas de acceso de Cloudflare se gestionan por separado.

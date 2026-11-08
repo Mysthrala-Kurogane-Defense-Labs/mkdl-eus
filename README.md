@@ -1,6 +1,6 @@
 # Web corporativa de MKDL
 
-Sitio estático de servicio y contacto para Mysthrala Kurogane Defense Labs. Esta rama prepara la oferta OT Check; editarla o comprobarla en local no cambia lo publicado en mkdl.jp. Kurogane Hub tiene otro repositorio y una superficie pública propia; no forma parte de OT Check.
+Sitio estático de servicio y contacto para Mysthrala Kurogane Defense Labs. Esta rama prepara la oferta OT Check; editarla o comprobarla en local no cambia lo publicado en mkdl.eus. Kurogane Hub tiene otro repositorio y una superficie pública propia; no forma parte de OT Check.
 
 OT Check revisa un proceso industrial delimitado para entregar decisiones, prioridades, responsables propuestos y comprobaciones con las que encargar mejoras. Euskadi es la base operativa; el público incluye industria de distintos tamaños y unidades de grupos. Alcance, profundidad, calendario, desplazamiento y precio se acuerdan por encargo. No se publica una tarifa firme ni se insinúan clientes o pilotos.
 
@@ -47,7 +47,7 @@ El generador conserva salida determinista. No editar los derivados como una segu
 - `assets/ot-check.css`, `assets/sample.css`, `assets/commercial.css`: ajustes de portada, informe y lectura de avisos.
 - Avisos legales, privacidad, cookies y accesibilidad: textos que requieren revisión contra actividad y proveedores reales antes de publicar.
 - `.well-known/security.txt` y `security.txt`: contacto y vigencia idénticos.
-- `CNAME`, metadatos, `sitemap.xml` y `robots.txt`: dominio previsto mkdl.jp.
+- `CNAME`, metadatos, `sitemap.xml` y `robots.txt`: dominio previsto mkdl.eus.
 
 La ausencia de formularios, analítica o almacenamiento programado en las fuentes no acredita la configuración del alojamiento, CDN o correo. La identidad jurídica necesaria no se sustituye por el nombre profesional ni se rellena por inferencia. No introducir expedientes, radar, datos económicos personales, secretos ni documentos de cliente en este repositorio público.
 
