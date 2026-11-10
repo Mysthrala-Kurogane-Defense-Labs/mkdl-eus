@@ -19,7 +19,7 @@ Proyecto profesional en preparación, con base operativa en Euskadi. Una profesi
 - [Accesibilidad](https://mkdl.eus/accesibilidad.html)
 - [Seguridad](https://mkdl.eus/security-policy.html)
 - [Mapa del sitio](https://mkdl.eus/sitemap.xml)
-- Contacto: mysthrala@mkdl.jp
+- Contacto: mysthrala@mkdl.eus
 
 Los ejemplos son sintéticos y no acreditan clientes, pilotos ni resultados. Las credenciales individuales se distinguen de las fuentes públicas sobre un programa formativo o el resultado de un equipo.
 

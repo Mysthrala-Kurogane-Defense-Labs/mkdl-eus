@@ -82,7 +82,7 @@ Kontsultaren arrazoia eta aztertu nahi duzun prozesua adieraztea nahikoa da. Ez 
 
 MKDLri idatzi
 
-mysthrala@mkdl.jp
+mysthrala@mkdl.eus
 
 Aholkularitza, dokumentazioa eta prestakuntza Euskaditik.
 
